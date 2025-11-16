@@ -1,0 +1,8 @@
+{
+  "name": "Sheikh Nuur School Portal",
+  "description": "A comprehensive, modern school management portal for Sheikh Nuur School, designed for students, parents, teachers, and administration. It includes AI-powered tools for learning, creativity, and assistance, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
